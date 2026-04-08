@@ -1,51 +1,81 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hasina%20Akter&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Hasina%20Akter&fontSize=65&fontColor=ffffff&animation=fadeIn" />
 </p>
 
+<h1 align="center">Hi 👋, I'm Hasina Akter</h1>
+<h3 align="center">💻 Frontend Developer | React Enthusiast</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0077B5&center=true&vCenter=true&width=435&lines=Hi+👋%2C+I'm+Hasina+Akter;Nice+to+met+you" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=hasina-code&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-### 📖 About Me
-I am a junior full-stack developer. I am currently learning modern web development technologies and trying to improve my skills by creating real-world projects. I love learning new things and solving problems through coding.
+## 📍 Location & Contact
+
+📍 Noakhali, Bangladesh
+📧 [hasina.akter171407@gmail.com](mailto:hasina.akter171407@gmail.com)
+
+---
+
+## 🙋‍♀️ About Me
+
+I am a passionate frontend developer who loves building modern and user-friendly web applications.
+I enjoy learning new technologies and solving real-world problems through coding.
 
 * 🔭 I’m currently working on:
-👉 Digitools Platform
-🌱 I’m currently exploring: Next.js
-💬 Ask me about: React, JavaScript, Tailwind
-
-
----
-
-### 🛠 Languages and Tools:
-<p align="left"> 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,mongodb,figma,git,vscode,postman" />
-  </a>
-</p>
+  👉 [Digitools Platform](https://digitools-platfrom-h.netlify.app/)
+* 🌱 I’m exploring: **Next.js**
+* 💻 I love clean and responsive UI
+* 🚀 Goal: Become a professional full stack developer
 
 ---
 
-### 🌐 Connect with me:
-<p align="left">
-  <a href="https://linkedin.com/in/hasina-akter-909a06394" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-  </a>
-  <a href="https://github.com/hasina-code" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hasina-code&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasina-code&layout=compact&theme=radical" />
-</p>
+## 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasina-code&theme=radical" alt="GitHub Streak" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,mongodb,git,github,vscode,figma,postman" />
 </p>
+
+---
+
+## 🌐 Social Links
+
+<p align="center">
+  <a href="https://linkedin.com/in/hasina-akter-909a06394">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+  <a href="mailto:hasina.akter171407@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/hasina-code">
+    <img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hasina-code&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasina-code&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=hasina-code&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasina-code&theme=tokyo-night" />
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+✨ I love coding, building projects, and learning new technologies every day!
