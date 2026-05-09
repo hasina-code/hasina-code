@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Hasina Akter
 
 <p align="left">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/raw/main/banner.png" width="100%" />
+  <img src="[https://github.com/YOUR_USERNAME/YOUR_USERNAME/raw/main/banner.png](https://i.ibb.co/4R2x43t6/banner.png)" width="100%" />
 </p>
 
 ## 💻 I am a Frontend Web Developer
