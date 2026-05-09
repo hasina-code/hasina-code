@@ -1,105 +1,85 @@
 # Hi there 👋, I'm Hasina Akter
-<h3 align="center">💻 Frontend Web Developer | React & Next.js Enthusiast</h3>
-<p align="center">
+
+<p align="left">
   <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/raw/main/banner.png" width="100%" />
 </p>
----
 
-## 👩‍💻 About Me
+## 💻 I am a Frontend Web Developer
 
-I am a passionate Frontend Web Developer who loves building responsive and modern web applications using React and Next.js.
-
-* 🌱 Currently Learning Backend Development & Next.js
-* 💻 Focused on Full Stack Web Development
-* ⚡ Love Building Modern UI/UX & Responsive Websites
-* 🎯 Goal: Become a Professional MERN Stack Developer
-* 📍 Location: Noakhali, Bangladesh
-* 📫 Email: [hasina.akter171407@gmail.com](mailto:hasina.akter171407@gmail.com)
+I am a web developer who loves building responsive web designs using React.
+I have knowledge of HTML, CSS, JavaScript, React, MongoDB, Next.js and Firebase.
 
 ---
 
-## 🚀 Current Activities
-
-* 🔭 Working on Modern E-commerce Projects
-* 🌱 Exploring Next.js App Router
-* 💡 Improving Backend Development Skills
-* 🎨 Practicing Clean UI Design
-
----
-
-## 🛠️ Skills
-
-### Frontend
+# 🚀 Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,nextjs" />
-</p>
-
-### Backend & Database
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
-</p>
-
-### Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=js,react,html,css,mongodb,firebase,tailwind,nodejs,nextjs" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🌱 Current Activities
+
+* 🌱 I’m currently exploring Next.js
+* 👯 I’m looking to collaborate on GitHub
+* 💻 Ask me about Web Development
+* 📫 Reach me at: **[hasina.akter171407@gmail.com](mailto:hasina.akter171407@gmail.com)**
+* 📍 Location: **Noakhali, Bangladesh**
+
+---
+
+# 🌐 Connect With Me
 
 <p align="left">
 
-<a href="https://linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://facebook.com/">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+<a href="https://github.com">
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://github.com/">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://facebook.com">
+<img src="https://img.icons8.com/color/48/facebook-new.png" width="45"/>
 </a>
 
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&margin-w=10&margin-h=10"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-## ⚡ Fun Fact
+# 🏆 GitHub Trophy
 
-✨ I enjoy creating beautiful responsive websites and learning new technologies every day.
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+✨ I love creating beautiful responsive websites and learning modern technologies every day.
 
 ---
 
