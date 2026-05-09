@@ -1,11 +1,8 @@
 # Hi there 👋, I'm Hasina Akter
-
+<h3 align="center">💻 Frontend Web Developer | React & Next.js Enthusiast</h3>
 <p align="center">
   <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/raw/main/banner.png" width="100%" />
 </p>
-
-<h3 align="center">💻 Frontend Web Developer | React & Next.js Enthusiast</h3>
-
 ---
 
 ## 👩‍💻 About Me
