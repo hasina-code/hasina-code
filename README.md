@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- আপনার পছন্দের সিম্পল ব্যানারটি এখানে থাকবে -->
-  <img src="https://i.ibb.co/mVvRwKhP/banner.png" alt="Hasina Akter Banner" width="100%" />
+  <img src="https://i.ibb.co/9Hbd2b0J/banner-2.png" alt="Hasina Akter Banner" width="100%" />
 </p>
 
 ## 💻 Frontend Web Developer
