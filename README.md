@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- আপনার পছন্দের সিম্পল ব্যানারটি এখানে থাকবে -->
-  <img src="[https://i.ibb.co/4R2x43t6/banner.png](https://i.ibb.co/mVvRwKhP/banner.png)" alt="Hasina Akter Banner" width="100%" />
+  <img src="https://i.ibb.co/mVvRwKhP/banner.png" alt="Hasina Akter Banner" width="100%" />
 </p>
 
 ## 💻 Frontend Web Developer
@@ -46,7 +46,7 @@ I specialize in creating interactive user interfaces using the modern web stack.
 ### 🌐 Let's Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_PROFILE">
+  <a href="https://www.linkedin.com/in/hasina-akter-dev/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://github.com/YOUR_USERNAME">
