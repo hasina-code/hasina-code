@@ -3,11 +3,11 @@
   <!-- আপনার পছন্দের সিম্পল ব্যানারটি এখানে থাকবে -->
   <img src="https://i.ibb.co/9Hbd2b0J/banner-2.png" alt="Hasina Akter Banner" width="100%" />
 </p>
-# 👋 Hi there, I'm Hasina Akter
+<h1 align="center"><b> Hi 👋, I'm Hasina Akter</b></h1>
+
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&lines=Frontend+Web+Developer;Full+Stack+Developer;Software+Developer;Web+Developer" alt="Typing SVG" />
 </h2>
-
 I am a passionate web developer who loves building **clean and responsive** web designs. 
 I specialize in creating interactive user interfaces using the modern web stack.
 
