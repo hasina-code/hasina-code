@@ -8,7 +8,7 @@
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&lines=Frontend+Web+Developer;Full+Stack+Developer;Software+Developer;Web+Developer" alt="Typing SVG" />
 </h2>
-### 👩‍💻 About Me
+👩‍💻 About Me
 
 I'm a passionate Frontend Web Developer who enjoys building clean, responsive, and user-friendly web applications. I love working with modern technologies like React, Next.js, Tailwind CSS, and Node.js. I'm continuously learning new technologies and improving my problem-solving skills to become a professional Full Stack Developer.
 
